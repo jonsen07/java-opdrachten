@@ -1,0 +1,16 @@
+float seconden = 1;
+float b = 60;
+float totaal = 0;
+float totaal2 = 0;
+float a = 3600;
+float c = 24;
+float totaal3 = 0;
+float d = 365;
+totaal = seconden / b;
+println(totaal);
+totaal2 = seconden / a;
+println(totaal2);
+totaal = totaal2 / c;
+println(totaal);
+totaal = totaal / d;
+println(totaal);

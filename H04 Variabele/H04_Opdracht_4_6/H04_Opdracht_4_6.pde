@@ -1,0 +1,11 @@
+float a = 5.5;
+float b = 7.2;
+float c = 8.3;
+float d = 3;
+float totaal = 0;
+float totaal2 = 0;
+totaal= a + b + c ;
+println(totaal);
+totaal2= totaal / d;
+println(totaal2);
+println("dus het gemiddelde cijfer is 7.0");
